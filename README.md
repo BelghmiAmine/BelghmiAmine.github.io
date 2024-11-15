@@ -36,4 +36,13 @@ My passion for transforming complex data into actionable insights has led me thr
 **Description** : Reinforcement learning project where I applied principles of Q-learning in order to solve the classical mountain car problem under the constraint that less than 200 actions should be taken for each game during the learning process.
 
 ### ♟ Optical Character Recognition for Handwritten Chess Move Digitization
+[Code](https://github.com/CS-433/ml-project-2-chess_moves)
 Under the supervision of the Centre for Artificial Intelligence (CAI) and lab supervisor Von Däniken Pius, I contributed to developing an Optical Character Recognition (OCR) model tailored for digitizing handwritten chess moves. This project addresses the inefficiencies and errors inherent in the traditional manual process of recording and digitizing chess competition data. Using a dataset of 2,671 cropped images of handwritten chess moves paired with their correct labels, we fine-tuned a pre-trained OCR model to specialize in recognizing chess notation. By leveraging a constrained output dictionary of valid chess moves, our approach optimized accuracy while simplifying the complexity of hyperparameter selection.
+
+
+## 💼 Professional Experience
+
+### Student assistant experience
+Thanks to my excellent grades in their respective courses, I worked as a student assistant for professors Karl Aberer and Patrick Thiran.
+• Advanced Information, Computation, Communication I (Autumn 2021, Grade: 6/6)
+• Mod`eles Stochastiques pour les Communications (Autumn 2023, Grade: 5.75/6)
