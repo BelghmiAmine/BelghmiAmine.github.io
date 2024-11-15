@@ -14,19 +14,23 @@ My passion for transforming complex data into actionable insights has led me thr
 
 ## 📈 Projects
 
-### Anonymous Proof-of-Presence groups for Messaging, Voting and Digital Currency
+### 💻 Anonymous Proof-of-Presence groups for Messaging, Voting and Digital Currency
 
 [Project report](https://drive.google.com/file/d/1KOdHVzxPAk7mXxAHW3l8bcR4hrawAXKy/view?usp=share_link)
 
 **Description** : Under the supervision of Pr. Bryan Ford, and Pr. Pierluca Bors`o-Tan, I worked in a Scala backend team for the [Decentralized and distributed systems lab](https://www.epfl.ch/labs/dedis/student-projects/) to migrate a minimalistic but highly robust and usable proof-of-presence group communication app for mobile devices from a centralized single server to a decentralized multiple server application. The app enables anyone to organize an in-person event, and take a secure “roll-call” at that event to connect with attendees and give each a one-per-person digital membership token. With these tokens, attendees can message each other, participate in an election or exchange currency without needing any strong identities (phone numbers etc), but with the ability to hold all participants accountable.
 
-### Lausanne Stochastic Journey Planner
+### 🚂 Lausanne Stochastic Journey Planner
 [Project Report](https://drive.google.com/file/d/1EJ0uPh1vro61GA8mqQ6dl7onuTatKKeP/view?usp=sharing)
 
 **Description** : This project consisted in leveraging the data published on the [Open Data Platform Mobility Switzerland](https://opentransportdata.swiss/fr/) for developing a robust public transport route planner using historical data and predictive modeling to compute the fastest and most reliable routes within a specified confidence interval. We Designed and implemented algorithms to account for schedule uncertainties, optimize route selection, and minimize travel risks. Created a visualization interface using Jupyter widgets to demonstrate the planner's functionality, ensuring usability and clarity.
 
-### The wizardry of good movies
+### 🍿 The wizardry of good movies
 [Website](https://math-ruch.github.io/yamal_group/)
 
 **Description** : This project consisted in leveraging a large movies data set to analyze factors influencing box office success. Utilized data analysis tools, including regression models, natural language processing, and sentiment analysis, to examine elements such as release timing, genre, plot sentiment, and casting choices. Developed predictive models to assess the impact of these variables on financial performance, providing actionable insights for the film industry. Contributed to the creation of a public-facing website to present findings and visualizations, effectively communicating complex analyses to a broader audience.
 
+### Mountain car project
+[Code](https://github.com/BelghmiAmine/ANNRL_MP1)
+
+**Description** : Reinforcement learning project where I applied principles of Q-learning in order to solve the classical mountain car problem under the constraint that less than 200 actions should be taken for each game during the learning process.
