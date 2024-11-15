@@ -20,3 +20,8 @@ My passion for transforming complex data into actionable insights has led me thr
 
 **Description** : Under the supervision of Pr. Bryan Ford, and Pr. Pierluca Bors`o-Tan, I worked in a Scala backend team for the [Decentralized and distributed systems lab](https://www.epfl.ch/labs/dedis/student-projects/) to migrate a minimalistic but highly robust and usable proof-of-presence group communication app for mobile devices from a centralized single server to a decentralized multiple server application. The app enables anyone to organize an in-person event, and take a secure “roll-call” at that event to connect with attendees and give each a one-per-person digital membership token. With these tokens, attendees can message each other, participate in an election or exchange currency without needing any strong identities (phone numbers etc), but with the ability to hold all participants accountable.
 
+### Lausanne Stochastic Journey Planner
+[Report](https://drive.google.com/file/d/1EJ0uPh1vro61GA8mqQ6dl7onuTatKKeP/view?usp=sharing)
+
+**Description** : This project consisted in leveraging the data published on the [Open Data Platform Mobility Switzerland](https://opentransportdata.swiss/fr/) for developing a robust public transport route planner using historical data and predictive modeling to compute the fastest and most reliable routes within a specified confidence interval. We Designed and implemented algorithms to account for schedule uncertainties, optimize route selection, and minimize travel risks. Created a visualization interface using Jupyter widgets to demonstrate the planner's functionality, ensuring usability and clarity.
+
