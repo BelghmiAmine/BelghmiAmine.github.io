@@ -11,3 +11,12 @@ My passion for transforming complex data into actionable insights has led me thr
 
 - **LinkedIn:** [amine-belghmi](https://www.linkedin.com/in/amine-belghmi-bab6b9231/)
 - **Email:** [amine.belghmi@epfl.ch](mailto:amine.belghmi@epfl.ch)
+
+## 📈 Projects
+
+### Anonymous Proof-of-Presence groups for Messaging, Voting and Digital Currency
+
+[Project report](https://drive.google.com/file/d/1KOdHVzxPAk7mXxAHW3l8bcR4hrawAXKy/view?usp=share_link)
+
+**Description** : Under the supervision of Pr. Bryan Ford, and Pr. Pierluca Bors`o-Tan, I worked in a Scala backend team for the [Decentralized and distributed systems lab](https://www.epfl.ch/labs/dedis/student-projects/) to migrate a minimalistic but highly robust and usable proof-of-presence group communication app for mobile devices from a centralized single server to a decentralized multiple server application. The app enables anyone to organize an in-person event, and take a secure “roll-call” at that event to connect with attendees and give each a one-per-person digital membership token. With these tokens, attendees can message each other, participate in an election or exchange currency without needing any strong identities (phone numbers etc), but with the ability to hold all participants accountable.
+
