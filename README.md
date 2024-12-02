@@ -48,6 +48,27 @@ Thanks to my excellent grades in their respective courses, I worked as a student
 • [Modèles Stochastiques pour les Communications](https://edu.epfl.ch/coursebook/fr/modeles-stochastiques-pour-les-communications-COM-300) (Autumn 2023, Grade: 5.75/6)
 
 
+## 🛠 Skills 
+
+### Programming 
+- **Python, Java, Scala**
+- **Algorithms and data structures**
+- **Dynamic programming**
+- **Object oriented programming**
+- **Functionnal programming**
+
+### Machine Learning 
+-**Deep Learning**
+-**Reinforcment learning**
+-**Computer visualization**
+-**Numpy, Pandas, Pytorch, Tensorflow, Scikit-learn**
+
+### Probabilities and Statistics
+- **Descriptive Statistics, Probability Theory, Regression Analysis**: Strong statistical foundation.
+- **Bayesian Statistics, Statistical Modeling**: Advanced understanding of Bayesian methods and statistical models.
+- **Bayesian AB Testing, Inference, Dimensionality Reduction, Hypothesis Testing**: Skilled in advanced statistical tests and data analysis techniques.
+- **Stochastic models**: Continuous / discrete time stochastic models, Poisson process, continous / discrete time markov chains
+
 ## 🌐 Languages 
 • French (Fluent)
 • English (Fluent)
