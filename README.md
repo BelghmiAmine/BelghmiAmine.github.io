@@ -46,3 +46,9 @@ Under the supervision of the Centre for Artificial Intelligence (CAI) and lab su
 Thanks to my excellent grades in their respective courses, I worked as a student assistant for professors Karl Aberer and Patrick Thiran.
 • [Advanced Information, Computation, Communication I](https://edu.epfl.ch/coursebook/en/advanced-information-computation-communication-i-CS-101) (Autumn 2021, Grade: 6/6)
 • [Modèles Stochastiques pour les Communications](https://edu.epfl.ch/coursebook/fr/modeles-stochastiques-pour-les-communications-COM-300) (Autumn 2023, Grade: 5.75/6)
+
+
+## 🌐 Languages 
+• French (Fluent)
+• English (Fluent)
+• Arabic (Fluent)
