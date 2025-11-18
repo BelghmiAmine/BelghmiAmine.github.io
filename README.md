@@ -17,8 +17,7 @@ My passion for transforming complex data into actionable insights has led me thr
 
 ### Internship : Medical LLM (Platform for Ocular Imaging Research, HOJG) Aug 2025 - Feb 2026
 
-At Jules-Gonin Hospital, a growing body of unstructured text data from electronic health records (EHR) provides a
-valuable yet underutilized source of clinical insight. My internship’s project focuses on training and fine-tuning an LLM
+This semester, I am currently working as an intern within the Platform for Ocular Imagin Research at Jules Gonin. At the hospital, a growing body of unstructured text data from electronic health records (EHR) provides a valuable yet underutilized source of clinical insight. My internship’s project focuses on training and fine-tuning an LLM
 to read and understand these medical records, with the primary goal of performing automated inference on patient diag-
 noses. The broader vision is to develop a general-purpose clinical assistant capable of supporting multiple downstream
 tasks such as summarization, risk stratification, and interactive querying of patient history
@@ -59,18 +58,18 @@ Under the supervision of the Centre for Artificial Intelligence (CAI) and lab su
 ## 🛠 Skills 
 
 ### Programming 
-- **Python, Java, Scala**
+- **Python, Java, Scala, SQL**
 - **Algorithms and data structures**
 - **Dynamic programming**
 - **Object oriented programming**
 - **Functionnal programming**
 
-### Machine Learning 
--**Deep Learning**
--**Reinforcment learning**
--**Computer visualization**
--**Numpy, Pandas, Pytorch, Tensorflow, Scikit-learn**
+### AI/ML Libraries
+-**Pandas, Numpy, PyTorch, TensorFlow, Keras, Scikit-learn, StatsModels, LangGraph, OpenCV, Spacy, Seaborn, Matplotlib, NetworkX**
 
+### Tools and Environments 
+ -**GitHub, Docker, Unix/Linux, Bash scripting, Computational resources management via SSH,  Hugging face**
+ 
 ### Probabilities and Statistics
 - **Descriptive Statistics, Probability Theory, Regression Analysis**: Strong statistical foundation.
 - **Bayesian Statistics, Statistical Modeling**: Advanced understanding of Bayesian methods and statistical models.
