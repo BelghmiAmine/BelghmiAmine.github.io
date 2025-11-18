@@ -11,6 +11,22 @@ My passion for transforming complex data into actionable insights has led me thr
 
 - **LinkedIn:** [amine-belghmi](https://www.linkedin.com/in/amine-belghmi-bab6b9231/)
 - **Email:** [amine.belghmi@epfl.ch](mailto:amine.belghmi@epfl.ch)
+- **Phone number:** +41786809911
+
+## 💼 Professional Experience
+
+### Internship : Medical LLM (Platform for Ocular Imaging Research, HOJG) Aug 2025 - Feb 2026
+
+At Jules-Gonin Hospital, a growing body of unstructured text data from electronic health records (EHR) provides a
+valuable yet underutilized source of clinical insight. My internship’s project focuses on training and fine-tuning an LLM
+to read and understand these medical records, with the primary goal of performing automated inference on patient diag-
+noses. The broader vision is to develop a general-purpose clinical assistant capable of supporting multiple downstream
+tasks such as summarization, risk stratification, and interactive querying of patient history
+
+### Student assistant experience
+Thanks to my excellent grades in their respective courses, I worked as a student assistant for professors Karl Aberer and Patrick Thiran.
+• [Advanced Information, Computation, Communication I](https://edu.epfl.ch/coursebook/en/advanced-information-computation-communication-i-CS-101) (Autumn 2021, Grade: 6/6)
+• [Modèles Stochastiques pour les Communications](https://edu.epfl.ch/coursebook/fr/modeles-stochastiques-pour-les-communications-COM-300) (Autumn 2023, Grade: 5.75/6)
 
 ## 📈 Projects
 
@@ -28,7 +44,7 @@ My passion for transforming complex data into actionable insights has led me thr
 ### 🍿 The wizardry of good movies
 [Website](https://math-ruch.github.io/yamal_group/)
 
-**Description** : This project consisted in leveraging a large movies data set to analyze factors influencing box office success. Utilized data analysis tools, including regression models, natural language processing, and sentiment analysis, to examine elements such as release timing, genre, plot sentiment, and casting choices. Developed predictive models to assess the impact of these variables on financial performance, providing actionable insights for the film industry. Contributed to the creation of a public-facing website to present findings and visualizations, effectively communicating complex analyses to a broader audience.
+**Description** : This project consisted in leveraging a large movies data set to analyze factors influencing box office success. Utilized data analysis tools, including regression models, natural language processing, and sentiment analysis, to examine elements such as release timing, genre, plot sentiment, and casting choices. We Developed predictive models to assess the impact of these variables on financial performance, providing actionable insights for the film industry. Contributed to the creation of a public-facing website to present findings and visualizations, effectively communicating complex analyses to a broader audience.
 
 ### 🏎 Mountain car project
 [Code](https://github.com/BelghmiAmine/ANNRL_MP1)
@@ -38,14 +54,6 @@ My passion for transforming complex data into actionable insights has led me thr
 ### ♟ Optical Character Recognition for Handwritten Chess Move Digitization
 [Code](https://github.com/CS-433/ml-project-2-chess_moves)
 Under the supervision of the Centre for Artificial Intelligence (CAI) and lab supervisor Von Däniken Pius, I contributed to developing an Optical Character Recognition (OCR) model tailored for digitizing handwritten chess moves. This project addresses the inefficiencies and errors inherent in the traditional manual process of recording and digitizing chess competition data. Using a dataset of 2,671 cropped images of handwritten chess moves paired with their correct labels, we fine-tuned a pre-trained OCR model to specialize in recognizing chess notation. By leveraging a constrained output dictionary of valid chess moves, our approach optimized accuracy while simplifying the complexity of hyperparameter selection.
-
-
-## 💼 Professional Experience
-
-### Student assistant experience
-Thanks to my excellent grades in their respective courses, I worked as a student assistant for professors Karl Aberer and Patrick Thiran.
-• [Advanced Information, Computation, Communication I](https://edu.epfl.ch/coursebook/en/advanced-information-computation-communication-i-CS-101) (Autumn 2021, Grade: 6/6)
-• [Modèles Stochastiques pour les Communications](https://edu.epfl.ch/coursebook/fr/modeles-stochastiques-pour-les-communications-COM-300) (Autumn 2023, Grade: 5.75/6)
 
 
 ## 🛠 Skills 
