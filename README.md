@@ -73,12 +73,13 @@ Under the supervision of the Centre for Artificial Intelligence (CAI) and lab su
 ### Tools and Environments 
  - **GitHub, Docker, Unix/Linux, Bash scripting, Computational resources management via SSH,  Hugging face**
  
-### Probabilities and Statistics
-- **Descriptive Statistics, Probability Theory, Regression Analysis**: Strong statistical foundation.
-- **Bayesian Statistics, Statistical Modeling**: Advanced understanding of Bayesian methods and statistical models.
-- **Bayesian AB Testing, Inference, Dimensionality Reduction, Hypothesis Testing**: Skilled in advanced statistical tests and data analysis techniques.
-- **Stochastic models**: Continuous / discrete time stochastic models, Poisson process, continous / discrete time markov chains
-
+### Coursework
+- **Modern Natural Language Processing:**: Word Embeddings, RNNs, Transformers, LLM pretraining, LLM fine tuning, Retrieval Augmented Generation (RAG)
+- **Distributed Information Systems:**: Information Retrieval, Mining Unstructured Data, Knowledge Bases
+- **Machine Learning:**: Supervised and Unsupervised Learning, SVMs, NNs, backpropagation, Adversarial ML, Overfitting, GMMs, GANs
+- **Artificial Neural Networks and Reinforcement Learning:**: Reinforcement learning, TD learning, SARSA, Actor-Critic Networks
+- **Applied Data Analysis:**: Data Wrangling (acquisition, manipulation, missing / inconsistent data handling), interpretation (statistical significance, design of observational studies), visualization, reporting.
+  
 ## 🌐 Languages 
 • French (Fluent)
 • English (Fluent)
