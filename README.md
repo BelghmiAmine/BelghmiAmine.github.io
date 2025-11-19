@@ -68,10 +68,10 @@ Under the supervision of the Centre for Artificial Intelligence (CAI) and lab su
 - **Functionnal programming**
 
 ### AI/ML Libraries
--**Pandas, Numpy, PyTorch, TensorFlow, Keras, Scikit-learn, StatsModels, LangGraph, OpenCV, Spacy, Seaborn, Matplotlib, NetworkX**
+- **Pandas, Numpy, PyTorch, TensorFlow, Keras, Scikit-learn, StatsModels, LangGraph, OpenCV, Spacy, Seaborn, Matplotlib, NetworkX**
 
 ### Tools and Environments 
- -**GitHub, Docker, Unix/Linux, Bash scripting, Computational resources management via SSH,  Hugging face**
+ - **GitHub, Docker, Unix/Linux, Bash scripting, Computational resources management via SSH,  Hugging face**
  
 ### Probabilities and Statistics
 - **Descriptive Statistics, Probability Theory, Regression Analysis**: Strong statistical foundation.
